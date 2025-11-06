@@ -1,0 +1,6 @@
+.env file 
+MONGO_URI=
+EMAIL=
+GOOGLE_PASS_KEY=
+JWT_SECRET=
+PORT=
